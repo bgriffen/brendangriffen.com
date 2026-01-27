@@ -234,7 +234,7 @@ privacy:
     disabled: false
     simple: true
 
-  x:
+  twitter:
     disabled: false
     enableDNT: true
     simple: true
@@ -250,5 +250,5 @@ privacy:
 services:
   instagram:
     disableInlineCSS: true
-  x:
+  twitter:
     disableInlineCSS: true
