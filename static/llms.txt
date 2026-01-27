@@ -1,0 +1,32 @@
+# llms.txt - Context for LLMs
+
+> This is the personal website of Brendan Griffen.
+
+## About
+
+Brendan Griffen is a technologist and ex-astrophysicist who builds platform technology at the intersection of biology, engineering, and computer science.
+
+He is currently Chief Technology Officer and co-founder at Dynomics Inc., a startup focused on discovering targeted therapies to reverse heart failure using complex in silico and in vitro systems.
+
+Previously, he studied cosmology and galaxy formation at the Kavli Institute at MIT, leading the Caterpillar Project, and contributed to the Illustris Project at the Center for Astrophysics at Harvard University.
+
+## Site Structure
+
+- /about - Professional biography, experience, education, and publications
+- /code - Portfolio of software projects spanning biotech, geospatial, astrophysics, and hardware
+- /posts - Blog posts on technology and science
+
+## Topics Covered
+
+- Computational Biology
+- Systems & DBTL Engineering
+- Astrophysics & Cosmology
+- AI & Machine Learning
+- Biotech Platforms
+- Geospatial Analysis
+
+## Contact
+
+- GitHub: https://github.com/bgriffen
+- LinkedIn: https://www.linkedin.com/in/brendangriffen/
+- Email: contact@grifflabs.dev
