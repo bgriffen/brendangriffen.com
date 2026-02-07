@@ -160,7 +160,7 @@ No code available.
       .then(data => {
         // Only first author
         data = data.filter(value => {
-          return value.authors[0].startsWith("Mills") && value.doctype == "article";
+          return (value.authors[0].startsWith("Mills") || value.authors[0].startsWith("McNamara")) && value.doctype == "article";
         });
 
         // Format authors
