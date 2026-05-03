@@ -1,0 +1,8 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "git submodule update --init --recursive && hugo --gc --minify",
+  "outputDirectory": "public",
+  "framework": "hugo",
+  "trailingSlash": true,
+  "cleanUrls": true
+}
