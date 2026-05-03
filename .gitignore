@@ -3,5 +3,12 @@ resources/
 .idea/
 .hugo_build.lock
 
+# macOS
+.DS_Store
+**/.DS_Store
+
 # Local Netlify folder
 .netlify
+
+# Vercel
+.vercel
