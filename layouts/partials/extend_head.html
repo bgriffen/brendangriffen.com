@@ -2,6 +2,20 @@
 
 {{ if eq hugo.Environment "production" }}
 <script src="{{ "js/posthog.js" | absURL }}"></script>
+{{ $phToken := os.Getenv "POSTHOG_PUBLIC_TOKEN" }}
+{{ $phHost := os.Getenv "POSTHOG_HOST" | default "https://us.i.posthog.com" }}
+{{ if $phToken }}
+<script>posthog.init('{{ $phToken }}', { api_host: '{{ $phHost }}', defaults: '2026-01-30' });</script>
+{{ end }}
+<script src="{{ "js/posthog-events.js" | absURL }}" defer></script>
+<script>
+  window.sentryOnLoad = function () {
+    Sentry.init({
+      dsn: "https://dfbf9a92e0eda8b2c847d25996aa692d@o4509505428062208.ingest.de.sentry.io/4511323732901968",
+      sendDefaultPii: true,
+    });
+  };
+</script>
 <script
   src="https://js-de.sentry-cdn.com/dfbf9a92e0eda8b2c847d25996aa692d.min.js"
   crossorigin="anonymous"

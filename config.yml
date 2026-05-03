@@ -251,3 +251,10 @@ services:
     disableInlineCSS: true
   x:
     disableInlineCSS: true
+
+security:
+  funcs:
+    getenv:
+      - "^HUGO_"
+      - "^CI$"
+      - "^POSTHOG_"
