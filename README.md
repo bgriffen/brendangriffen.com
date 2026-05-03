@@ -2,6 +2,8 @@
 
 # brendangriffen.com
 
+Personal site.
+
 [**brendangriffen.com**](https://www.brendangriffen.com) · [about](https://www.brendangriffen.com/about/) · [code](https://www.brendangriffen.com/code/) · [blog](https://www.brendangriffen.com/posts/)
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.brendangriffen.com&up_message=online&up_color=brightgreen&down_message=down&down_color=red&label=brendangriffen.com&style=flat-square)](https://www.brendangriffen.com)
