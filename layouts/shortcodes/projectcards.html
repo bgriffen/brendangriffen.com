@@ -4,7 +4,7 @@
   {{- range . }}
     {{- if eq .topic $desiredTopic }}
       <div class="project-cards">
-        <div class="card-entry-link">
+        <a href="{{ .url }}" class="card-entry-link" target="_blank" rel="noopener">
           <div class="card-entry">
             <div class="entry-cover">
               <img src="{{ .image | relURL }}" alt="{{ .title }} Banner">
@@ -18,12 +18,12 @@
             <div class="entry-footer">
               <div class="tags">
                 {{ range .tags }}
-                  <a href="/tags/{{ . | urlize }}" class="tag">{{ . }}</a>
+                  <span class="tag">{{ . }}</span>
                 {{ end }}
               </div>
             </div>
           </div>
-        </div>
+        </a>
       </div>
     {{- end }}
   {{- end }}
