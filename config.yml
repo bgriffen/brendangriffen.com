@@ -147,7 +147,7 @@ params:
     imageTitle: my image
     imageWidth: 120
     imageHeight: 120
-    subtitle: "Ex-astrophysicist building deep tech platforms."
+    subtitle: "Ex-astrophysicist building future deep tech."
     buttons:
       - name: Archives
         url: archives
@@ -158,9 +158,11 @@ params:
     Title: "Hi, I'm"
     Name: "Brendan"
     Content: >
-      Ex-astrophysicist building deep tech platforms.  
+      Ex-astrophysicist building future deep tech.
 
-      CTO & co-founder @ [Dynomics Inc](https://dynomics.com).  
+      Head of AI @ [Magentus](https://www.magentus.com/).
+
+      CTO & co-founder @ [Dynomics Inc](https://dynomics.com).
 
   socialIcons:
     - name: github

@@ -29,12 +29,14 @@ I am based between San Francisco and Brisbane, Australia.
 - Systems & DBTL Engineering
 - Astrophysics & Cosmology
 - AI & Machine Learning
+- Augmenting Healthcare
 - Privacy
 - Deep Tech
 - National Parks
 
 ### Experience
 
+* Head of AI @ [Magentus](https://www.magentus.com/) <span style="float:right;">2025 - <i>present</i> </span>
 * Chief Technology Officer & co-founder @ [Dynomics Inc.](https://dynomics.com) <span style="float:right;">2021 - <i>present</i> </span>
 * Chief Technology Officer & co-founder @ Scaled Biolabs Inc. <span style="float:right;">2017 - 2020</span>
 * Postdoctoral Scholar, Massachusetts Institute of Technology<span style="float:right;">2013 - 2017</span>
