@@ -17,7 +17,7 @@ In **healthcare** I build practice management systems that span the entire arc o
 
 Most of it comes down to turning messy, complex domains into tools other people can actually use.
 
-In **biotech** that means cell-assay platforms that run ML over single-cell data and model the cost of a protocol, structured databases for managing lab protocols and experimental data, and pipelines that keep a local, queryable copy of the entire biomedical literature.
+In **biotech** that means cell-assay platforms that run ML over single-cell data and model the cost of a protocol, structured databases for managing lab protocols and experimental data, and pipelines that keep a local, queryable copy of the entire biomedical literature — software that today powers multiple cardiac research labs across Australia.
 
 On the **hardware** side I've written controllers and graphical interfaces that drive liquid handlers and microfluidic cell-culture circuits over many days of continuous, slow flow.
 
