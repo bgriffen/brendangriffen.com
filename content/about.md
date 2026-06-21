@@ -88,21 +88,6 @@ Unable to load publication list.
 
 <ul id="publist-astro"></ul>
 
-<!-- Added code-template tag -->
-<script id="code-template" type="x-tmpl-mustache">
-{{#codes}}
-<li>
-    <a href="{{url}}">{{repo}}</a>
-    {{#description}} - {{description}}{{/description}}
-</li>
-{{/codes}}
-{{^codes}}
-No code available.
-{{/codes}}
-</script>
-
-<ul id="codelist"></ul>
-
 <script src="https://unpkg.com/mustache@latest"></script>
 <script>
   var codeMap = {
@@ -123,19 +108,6 @@ No code available.
   }
 
   (() => {
-    var codeTemplate = document.getElementById("code-template").innerHTML;
-    fetch("https://raw.githubusercontent.com/bgriffen/cv/main/data/repos.json")
-      .then(response => response.json())
-      .then(data => {
-        data = data.data.user.pinnedItems.edges.map(value => value.node);
-        var rendered = Mustache.render(codeTemplate, { codes: data });
-        document.getElementById("codelist").innerHTML = rendered;
-      })
-      .catch(() => {
-        var rendered = Mustache.render(codeTemplate, { codes: [] });
-        document.getElementById("codelist").innerHTML = rendered;
-      });
-
     var pubTemplateastro = document.getElementById("pub-template-astro").innerHTML;
     fetch("https://raw.githubusercontent.com/bgriffen/cv/main/data/pubs.json")
       .then(response => response.json())
