@@ -24,5 +24,3 @@ In **geospatial** I've built toolkits for querying dozens of open Australian dat
 And in **astrophysics**, my earlier work produced one of the largest, highest-resolution suites of Milky Way-sized cosmological simulations, along with the no-code tooling to design and run those "zoom-in" simulations on HPC clusters. This grew out of studying cosmology and galaxy formation at the Kavli Institute at MIT, where I led the Caterpillar Project, and contributing to the Illustris Project at the Center for Astrophysics at Harvard University.
 
 Outside of work I run a **homelab** on my own hardware (Unraid, TrueNAS, bare-metal Kubernetes and more), where I self-host services, deploy quantised LLMs and pipelines locally, and tinker with a Raspberry Pi-driven Home Assistant setup.
-
-The common thread is approachable software over hard scientific problems: GUIs for people who don't code, data pipelines that stay up to date on their own, and ML sitting close to the experiment.
