@@ -15,14 +15,14 @@ My more comprehensive GitHub profile can be [found here](https://github.com/bgri
 
 In **healthcare** I build practice management systems that span the entire arc of a specialist practice, from front-office scheduling and patient intake, through clinical documentation and AI scribes, to billing and revenue cycle management, all augmented by intelligent systems, whether AI or plain automation. These are production platforms used every day by tens of thousands of specialists and the patients they care for.
 
-In **biotech** that means cell-assay platforms that run ML over single-cell data and model the cost of a protocol, structured databases for managing lab protocols and experimental data, and pipelines that keep a local, queryable copy of the entire biomedical literature. This software today powers multiple cardiac research labs across Australia.
+In **biotech** that means cell-assay platforms that run ML over single-cell data and model the cost of a protocol, structured databases for managing lab protocols and experimental data, and agentic systems that digest, retrieve and synthesize the biomedical literature. I built and maintain a cardiac discovery engine spanning functional assay, proteomic, genomic and biobank data, which is powering multiple cardiac drug discovery labs in Australia.
 
 On the **hardware** side I've written controllers and graphical interfaces that drive liquid handlers and microfluidic cell-culture circuits over many days of continuous, slow flow.
 
-In **geospatial** I've built toolkits for querying dozens of open Australian datasets at once (imagery, demographics, property history, transport, flooding) and layered predictive models on top to forecast property prices.
+In **geospatial** I've built toolkits for querying dozens of open Australian datasets at once (imagery, demographics, property history, transport, flooding) and layered predictive models on top.
 
-And in **astrophysics**, my earlier work produced one of the largest, highest-resolution suites of Milky Way-sized cosmological simulations, along with the no-code tooling to design and run those "zoom-in" simulations on HPC clusters.
+And in **astrophysics**, my earlier work produced one of the largest, highest-resolution suites of Milky Way-sized cosmological simulations, along with the no-code tooling to design and run those "zoom-in" simulations on HPC clusters. This grew out of studying cosmology and galaxy formation at the Kavli Institute at MIT, where I led the Caterpillar Project, and contributing to the Illustris Project at the Center for Astrophysics at Harvard University.
+
+Outside of work I run a **homelab** on my own hardware (Unraid, TrueNAS, bare-metal Kubernetes and more), where I self-host services, deploy quantised LLMs and pipelines locally, and tinker with a Raspberry Pi-driven Home Assistant setup.
 
 The common thread is approachable software over hard scientific problems: GUIs for people who don't code, data pipelines that stay up to date on their own, and ML sitting close to the experiment.
-
-I take a "make it public and clean it up later" approach, otherwise none of it would ever see the light of day.

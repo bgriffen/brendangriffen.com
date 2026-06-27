@@ -158,10 +158,8 @@ params:
     Title: "Hi, I'm"
     Name: "Brendan"
     Content: >
-      Ex-astrophysicist building future deep tech.
-
-      Head of AI @ [Magentus](https://www.magentus.com/).
-
+      Ex-astrophysicist building future deep tech.<br>
+      Head of AI @ [Magentus](https://www.magentus.com/).<br>
       CTO & co-founder @ [Dynomics Inc](https://dynomics.com).
 
   socialIcons:
