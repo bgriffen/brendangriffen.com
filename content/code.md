@@ -15,7 +15,7 @@ My more comprehensive GitHub profile can be [found here](https://github.com/bgri
 
 In **healthcare** I build practice management systems that span the entire arc of a specialist practice, from front-office scheduling and patient intake, through clinical documentation and AI scribes, to billing and revenue cycle management, all augmented by intelligent systems, whether AI or plain automation. These are production platforms used every day by tens of thousands of specialists and the patients they care for.
 
-In **biotech** that means cell-assay platforms that run ML over single-cell data and model the cost of a protocol, structured databases for managing lab protocols and experimental data, and agentic systems that digest, retrieve and synthesize the biomedical literature. I built and maintain a cardiac discovery engine spanning functional assay, proteomic, genomic and biobank data, which is powering multiple cardiac drug discovery labs in Australia.
+In **biotech** that means cell-assay platforms that run ML over single-cell data and model the cost of a protocol, structured databases for managing lab protocols and experimental data, and agentic systems that digest, retrieve and synthesize the biomedical literature. I built and maintain a cardiac drug discovery platform spanning functional assay, proteomic, genomic and biobank data, which is powering multiple cardiac drug discovery labs in Australia.
 
 On the **hardware** side I've written controllers and graphical interfaces that drive liquid handlers and microfluidic cell-culture circuits over many days of continuous, slow flow.
 
