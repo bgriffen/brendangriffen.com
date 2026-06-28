@@ -4,6 +4,7 @@ title: "hello world"
 date: "2021-10-06"
 summary: Welcome to my site.
 tags: ["general"]
+draft: true
 ShowToc: false
 sharebuttons: ["twitter","reddit", "linkedin"]
 

@@ -37,9 +37,9 @@ languages:
         - name: code
           url: code/
           weight: 2
-        - name: blog
-          url: posts/
-          weight: 3
+        # - name: blog
+        #   url: posts/
+        #   weight: 3
         #- name: archive
         #  url: archives
         #  weight: 4
