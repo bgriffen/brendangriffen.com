@@ -15,9 +15,9 @@ Hi, I'm Brendan.
 
 I build platform tech at the intersection of biology, engineering and computer science.
 
-I’m currently Chief Technology Officer and co-founder at [Dynomics](https://www.dynomics.com). We're a startup focused on discovering targeted therapies to reverse heart failure using complex *in silico* and *in vitro* systems.
+I’m currently CTO and co-founder at [Dynomics](https://www.dynomics.com). We're a startup focused on discovering targeted therapies to reverse heart failure using complex *in silico* and *in vitro* systems.
 
-I am also Head of Artificial Intelligence at [Magentus](https://www.magentus.com/?r=a), where we build software spanning pathology, oncology, radiology and practice management.
+I am also GM AI & Engineering at [Magentus](https://www.magentus.com/?r=a), where we build software spanning pathology, oncology, radiology and practice management.
 
 In a past life I studied cosmology and galaxy formation at the Kavli Institute at MIT, leading the [Caterpillar Project](https://www.caterpillarproject.org/), and was a contributor to the [Illustris Project](https://www.illustris-project.org/) at the Center for Astrophysics at Harvard University.
 
@@ -36,9 +36,10 @@ I am based between San Francisco and Brisbane, Australia.
 
 ### Experience
 
-* Head of AI @ [Magentus](https://www.magentus.com/) <span style="float:right;">2025 - <i>present</i> </span>
-* Chief Technology Officer & co-founder @ [Dynomics Inc.](https://dynomics.com) <span style="float:right;">2021 - <i>present</i> </span>
-* Chief Technology Officer & co-founder @ Scaled Biolabs Inc. <span style="float:right;">2017 - 2020</span>
+* GM AI & Engineering @ [Magentus](https://www.magentus.com/) <span style="float:right;">2026 - <i>present</i> </span>
+* Head of AI @ [Magentus](https://www.magentus.com/) <span style="float:right;">2025 - 2026</span>
+* CTO & co-founder @ [Dynomics Inc.](https://dynomics.com) <span style="float:right;">2021 - <i>present</i> </span>
+* CTO & co-founder @ Scaled Biolabs Inc. <span style="float:right;">2017 - 2020</span>
 * Postdoctoral Scholar, Massachusetts Institute of Technology<span style="float:right;">2013 - 2017</span>
 
 San Francisco accelerators:
@@ -136,9 +137,9 @@ Unable to load publication list.
     fetch("https://raw.githubusercontent.com/bgriffen/cv/main/data/other_pubs.json")
       .then(response => response.json())
       .then(data => {
-        // Only first author
+        // other_pubs.json is hand-curated, so no author filter is needed
         data = data.filter(value => {
-          return (value.authors[0].startsWith("Mills") || value.authors[0].startsWith("McNamara")) && value.doctype == "article";
+          return value.doctype == "article";
         });
 
         // Format authors
