@@ -159,8 +159,8 @@ params:
     Name: "Brendan"
     Content: >
       Ex-astrophysicist building future deep tech.<br>
-      GM AI & Engineering @ [Magentus](https://www.magentus.com/).<br>
-      CTO & co-founder @ [Dynomics Inc](https://dynomics.com).
+      CTO & co-founder @ [Dynomics](https://dynomics.com).<br>
+      GM AI & Engineering @ [Magentus](https://www.magentus.com/).
 
   socialIcons:
     - name: github
