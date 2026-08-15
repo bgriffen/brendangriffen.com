@@ -15,10 +15,6 @@ Hi, I'm Brendan.
 
 I build platform tech at the intersection of biology, engineering and computer science.
 
-I’m currently CTO and co-founder at [Dynomics](https://www.dynomics.com). We're a startup focused on discovering targeted therapies to reverse heart failure using complex *in silico* and *in vitro* systems.
-
-I am also GM AI & Engineering at [Magentus](https://www.magentus.com/?r=a), where we build software spanning pathology, oncology, radiology and practice management.
-
 In a past life I studied cosmology and galaxy formation at the Kavli Institute at MIT, leading the [Caterpillar Project](https://www.caterpillarproject.org/), and was a contributor to the [Illustris Project](https://www.illustris-project.org/) at the Center for Astrophysics at Harvard University.
 
 I am based between San Francisco and Brisbane, Australia.

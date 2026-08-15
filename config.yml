@@ -158,9 +158,7 @@ params:
     Title: "Hi, I'm"
     Name: "Brendan"
     Content: >
-      Ex-astrophysicist building future deep tech.<br>
-      CTO & co-founder @ [Dynomics](https://dynomics.com).<br>
-      GM AI & Engineering @ [Magentus](https://www.magentus.com/).
+      Ex-astrophysicist building future deep tech.
 
   socialIcons:
     - name: github
